@@ -1,4 +1,0 @@
--   C++ Primer
--   Python
--   Matlab
-
